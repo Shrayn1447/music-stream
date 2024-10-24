@@ -11,7 +11,7 @@ const ChildrenStyled = styled(Children)`
 const App = () => {
   return <>
     <x.div color={'red'} fontSize={'100px'}>
-        sdkfjadasdasdasksjfkl;asnfkasfas
+        sdkfjaddasdasdasdasdasksjfkl;asnfkasfas
     </x.div>
   </>;
 };
